@@ -267,6 +267,10 @@ body{
     height: 500px;
    
 }
+.crudApp img:hover{
+    width: 550px;
+    height: 550px;
+}
 
 .crudApp p{
   margin-top: 20px;
