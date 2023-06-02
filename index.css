@@ -229,7 +229,7 @@ body{
 /*Portfolio section*/
 .portfolio {
     background: #081b29;
-    height: 100vh;
+    height:130vh;
     display: flex;
     padding: 0 10%;
 }
@@ -247,8 +247,8 @@ body{
 }
 
 .portfolio-content h3{
-    font-size: 20px;
-    margin-top: 15px;
+    font-size: 30px;
+    margin-top: 20px;
 }
 
 
@@ -275,4 +275,29 @@ body{
 .crudApp p{
   margin-top: 20px;
    
+}
+.app2{
+    display: flex;
+    margin-top: 30px;
+    max-width: 1600px;
+    max-height: 1400PX;
+    background-color: #113b58dc;
+    border-radius: 20px;
+}
+
+.app2 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+   
+}
+.app2 img:hover{
+    width: 250px;
+    height: 250px;
+
+}
+
+.app2 p{
+    margin-top: 20px;
+    margin-left: 10px;
 }
