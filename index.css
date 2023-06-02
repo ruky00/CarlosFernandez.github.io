@@ -69,7 +69,7 @@ body{
 
 }
 
-.home-content h3{
+.home-content h2{
     font-size: 30px;
     font-weight: 700;
     color: #00abf0;
@@ -246,7 +246,7 @@ body{
     font-size: 50px;
 }
 
-.portfolio-content h3{
+.portfolio-content h2{
     font-size: 30px;
     margin-top: 20px;
 }
